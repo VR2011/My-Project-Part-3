@@ -8,13 +8,13 @@ var spaceFont;
 var satellites = [];
 var satellites_img = [];
 function preload() {
-    earth = loadImage('images/earth.png');
-    rocket = loadImage('images/rocket.png');
-    net = loadImage('images/net.png');
-    sat1i = loadImage('images/satellite.png');
-    sat2i = loadImage('images/satellite2.png');
-    sat3i = loadImage('images/satellite3.png');
-    sat4i = loadImage('images/satellite4.png');
+    earth = loadImage('earth.png');
+    rocket = loadImage('rocket.png');
+    net = loadImage('net.png');
+    sat1i = loadImage('satellite.png');
+    sat2i = loadImage('satellite2.png');
+    sat3i = loadImage('satellite3.png');
+    sat4i = loadImage('satellite4.png');
     spaceFont = loadFont('Chopsic-K6Dp.ttf');
 }
 
